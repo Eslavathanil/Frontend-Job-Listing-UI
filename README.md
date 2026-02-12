@@ -16,6 +16,14 @@ A modern, responsive Job Board application built with **Vite**, **TypeScript**, 
 8. [Assumptions & Future Improvements](#assumptions--future-improvements)
 
 ---
+## 🌐 Live Demo
+Check out the live project here:  
+🔗 [https://jobfilt.netlify.app/](https://jobfilt.netlify.app/)
+
+---
+
+## 📸 Demo Preview
+![Project Screenshot](https://res.cloudinary.com/dp8gu4t9m/image/upload/v1770907213/Screenshot_2026-02-12_200418_uofdwp.png)
 
 ## Getting Started
 
